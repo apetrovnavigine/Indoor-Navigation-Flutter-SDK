@@ -6,6 +6,9 @@ A flutter plugin for navigine sdk on iOS and Android.
 |-------------|---------|---------|
 | __Support__ | SDK 21+ | iOS 12+ |
 
+## What is Flutter?
+Flutter is a free and open-source mobile UI framework created by Google. It allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
+
 ## Getting Started
 
 ### Generate your User Hash
