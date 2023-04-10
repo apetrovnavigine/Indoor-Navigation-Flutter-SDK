@@ -8,6 +8,7 @@ A flutter plugin for navigine sdk on iOS and Android.
 
 ## What is Flutter?
 ![Template](https://github.com/apetrovnavigine/Indoor-Navigation-Flutter-SDK/blob/main/Screenshot_12.png)
+
 Flutter is a free and open-source mobile UI framework created by Google. It allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
 
 ## Getting Started
